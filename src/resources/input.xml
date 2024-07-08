@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <name>John Doe</name>
+        <age>30</age>
+        <role>Developer</role>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <age>25</age>
+        <role>Designer</role>
+    </employee>
+</employees>
