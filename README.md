@@ -23,6 +23,7 @@ XmlParserApp is a simple command-line Java application that extracts information
    cd XmlParserApp
 2. **Compile the application:**
 
+   ```sh
    javac -d bin src/main/java/XmlParserApp.java
    java -cp bin main.java.XmlParserApp
 
